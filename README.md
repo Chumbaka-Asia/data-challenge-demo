@@ -1,7 +1,5 @@
-## Try it
+## Data Challenge for Job Interview
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+To use, follow steps in [My JSON Server](https://my-json-server.typicode.com/)
 
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+Foked from [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
