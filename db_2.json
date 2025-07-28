@@ -1,0 +1,90 @@
+[
+  {
+    "datetime_login": "7/28/2025 9:00",
+    "datetime_logout": "7/28/2025 9:15",
+    "date_uploaded": "7/28/2025",
+    "username": "AMIE",
+    "stars": 68,
+    "level": 1,
+    "day": 9,
+    "game": 0,
+    "session_mins": 15
+  },
+  {
+    "datetime_login": "7/28/2025 13:00",
+    "datetime_logout": "7/28/2025 13:09",
+    "date_uploaded": "7/28/2025",
+    "username": "T2 AVELINO DAR DAVES DEVIAN",
+    "stars": 109,
+    "level": 0,
+    "day": 0,
+    "game": 0,
+    "session_mins": 9
+  },
+  {
+    "datetime_login": "7/28/2025 13:00",
+    "datetime_logout": "7/28/2025 13:03",
+    "date_uploaded": "7/28/2025",
+    "username": "2 AMANAH_JEREMY",
+    "stars": 20,
+    "level": 0,
+    "day": 0,
+    "game": 0,
+    "session_mins": 3
+  },
+  {
+    "datetime_login": "7/28/2025 13:00",
+    "datetime_logout": "7/28/2025 13:05",
+    "date_uploaded": "7/28/2025",
+    "username": "2 AMANAH ABANG ASRIZAN",
+    "stars": 145,
+    "level": 1,
+    "day": 9,
+    "game": 0,
+    "session_mins": 5
+  },
+  {
+    "datetime_login": "7/28/2025 13:00",
+    "datetime_logout": "7/28/2025 13:10",
+    "date_uploaded": "7/28/2025",
+    "username": "2 AMANAH SYAFIQ JUNAIDI",
+    "stars": 150,
+    "level": 1,
+    "day": 9,
+    "game": 0,
+    "session_mins": 10
+  },
+  {
+    "datetime_login": "7/28/2025 13:00",
+    "datetime_logout": "7/28/2025 13:20",
+    "date_uploaded": "7/28/2025",
+    "username": "2 AMANAH NADZIR ZAFRI",
+    "stars": 150,
+    "level": 1,
+    "day": 9,
+    "game": 0,
+    "session_mins": 20
+  },
+  {
+    "datetime_login": "7/28/2025 12:00",
+    "datetime_logout": "7/28/2025 13:00",
+    "date_uploaded": "7/28/2025",
+    "username": "2 AMANAH AISYA AULIA",
+    "stars": 150,
+    "level": 1,
+    "day": 9,
+    "game": 0,
+    "session_mins": 60
+  },
+  {
+    "datetime_login": "7/28/2025 12:09",
+    "datetime_logout": "7/28/2025 13:09",
+    "date_uploaded": "6/30/2025",
+    "username": "2 AMANAH AINA RAZIA",
+    "stars": 150,
+    "level": 1,
+    "day": 9,
+    "game": 0,
+    "session_mins": 60
+  }
+]
